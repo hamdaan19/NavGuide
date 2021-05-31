@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
+import os
 
 num_disparities = 48
 block_size = 15
@@ -9,9 +10,11 @@ block_size = 15
 #fourcc = cv2.VideoWriter_fourcc(*'XVID')
 #out = cv2.VideoWriter('bm_disp.avi', fourcc, 8, (1348, 374))
 
+parent_dir = os.getcwd()
+
 for i in range(0, 602):
-    img_address_1 = 'datasets/2010_03_04_drive_0032/2010_03_04_drive_0032_Images/I1_'+str(i).zfill(6)+'.png'
-    img_address_2 = 'datasets/2010_03_04_drive_0032/2010_03_04_drive_0032_Images/I2_'+str(i).zfill(6)+'.png'
+    img_address_1 = parent_dir+'/datasets/2010_03_04_drive_0032/2010_03_04_drive_0032_Images/I1_'+str(i).zfill(6)+'.png'
+    img_address_2 = parent_dir+'/datasets/2010_03_04_drive_0032/2010_03_04_drive_0032_Images/I2_'+str(i).zfill(6)+'.png'
 
     imgL = cv2.imread(img_address_1, cv2.IMREAD_GRAYSCALE)
     imgR = cv2.imread(img_address_2, cv2.IMREAD_GRAYSCALE)
