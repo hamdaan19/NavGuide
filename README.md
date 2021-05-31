@@ -1,10 +1,4 @@
 # NavGuide
-### Welcome!
-### thanks bro 
-This is our design and fabrication project!
+## About
 
-I just added a new line!
-
-Another line added now 
-
-Yeah da pulled the scripts and datasets
+NavGuide is a device that primarily aims to assist visually challenged people while navigating through new and dynamic environments. NavGuide makes use of a stereo camera to compute a depth map of the surroundings and inform the user about the same via haptic actuators. As the development of NavGuide progresses, source code of the project will be appended to this repository. 
