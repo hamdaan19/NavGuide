@@ -1,6 +1,8 @@
 # NavGuide
 ### Welcome!
-###thanks bro
+### thanks bro 
 This is our design and fabrication project!
 
 I just added a new line!
+
+Another line added now 
