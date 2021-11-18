@@ -23,10 +23,11 @@ Here s is the scaling, H is the homography matrix, x' and y' are transformed poi
 ![1](img/1.png)
 
 #### Step 3
-Next we need to segment the image to correctly identify which part is the sidewalk and which parts are the stripes of the crosswalk. We do this in order to plan a suitable path from the user's location to the start of the zebra crossing. We have used UNET and PyTorch to accomplish this task. 
+Next we need to segment the image to correctly identify which part is the sidewalk and which parts are the stripes of the crosswalk. We do this in order to plan a suitable path from the user's location to the start of the zebra crossing. We have used UNET and PyTorch to accomplish this task. The color red represents the stripes while the color blue represents the crosswalk. 
 <p align="center">
-<img src="img/2.png" style="height: 200px; width: 450px;"/>
+<img src="img/2.png" style="height: 300px; width: 600px;"/>
 </p>
+
 
 
 
