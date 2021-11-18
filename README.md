@@ -38,6 +38,9 @@ Haptic feedback is given to the user in order to guide him/her towards the start
 #### Step 5
 The last step is to detect whether there is a traffic signal (which is also done using Cascade Classifiers) and if there is, to check whether the signal is STOP or GO based on which, the user will be directed whether to proceed or not.  
 
+## References
+1. <p>Fadri Furrer, Micheal Burri, Markus Achtelik, and Roland Siegwart, "<b>RotorS---A Modular Gazebo MAV Simulator Framework in Robot Operating System (ROS): The Complete Reference (Volume 1)</b>", pages: 595--625. In "<i>Springer International Publishing</i>" 2016.</p> 
+
 
 
 
