@@ -1,5 +1,7 @@
 # NavGuide
-![title image](img/device.png)
+<p align="center">
+<img src="img/methodology.png" style="height: 500px; width: 1250px;"/>
+</p>
 
 ## About
 
