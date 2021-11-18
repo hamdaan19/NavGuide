@@ -29,7 +29,7 @@ Next we need to segment the image to correctly identify which part is the sidewa
 </p>
 
 #### Step 4
-Haptic feedback is given to the user in order to guide him/her towards the starting edge of the crosswalk. Force and frequency of the tapping is controlled to give a wide range of feedback.    
+Haptic feedback is given to the user in order to guide him/her towards the starting edge of the crosswalk. Force and frequency of the tapping is controlled to give a wide range of feedback. Once the user has arrived at the edge of the zebra crossing, the user is made to align with the zebra crossing. 
 
 
 
