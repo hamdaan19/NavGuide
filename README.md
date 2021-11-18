@@ -1,6 +1,6 @@
 # NavGuide
 <p align="center">
-<img src="img/device.png" style="height: 300px; width: 1000px;"/>
+<img src="img/device.png" style="height: 300px; width: 700px;"/>
 </p>
 
 ## About
