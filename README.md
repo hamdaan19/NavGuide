@@ -39,7 +39,7 @@ Haptic feedback is given to the user in order to guide him/her towards the start
 The last step is to detect whether there is a traffic signal (which is also done using Cascade Classifiers) and if there is, to check whether the signal is STOP or GO based on which, the user will be directed whether to proceed or not.  
 
 ## References
-1. <p>Olaf Ronneberger, Philipp Fischer, Thomas Brox, "<b>U-Net: Convolutional Networks for Biomedical Image Segmentation</b>"In "<i>Computer Vision and Pattern Recognition, arXiv Labs</i>" 2015. [Link](https://arxiv.org/abs/1505.04597) . </p>
+1. <p>Olaf Ronneberger, Philipp Fischer, Thomas Brox, "<b>U-Net: Convolutional Networks for Biomedical Image Segmentation</b>"In "<i>Computer Vision and Pattern Recognition, arXiv Labs</i>" 2015. [Link.](https://arxiv.org/abs/1505.04597) </p>
 2. <p>Daryl Tan "<b>A Hands-On Application of Homography: IPM</b>" In "<i>Towards Data Science</i>" 2020.</p> [Link](https://towardsdatascience.com/a-hands-on-application-of-homography-ipm-18d9e47c152f).
 
 
