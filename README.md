@@ -5,6 +5,6 @@ NavGuide is a device that primarily aims to assist visually challenged people wh
 
 ## Framework
 ### Methodology
-![Steps](img/methodology.png)
+<img src="img/methodology.png" style="height: 100px; width: 100px;"/>
 
 
