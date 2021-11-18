@@ -31,7 +31,8 @@ Next we need to segment the image to correctly identify which part is the sidewa
 #### Step 4
 Haptic feedback is given to the user in order to guide him/her towards the starting edge of the crosswalk. Force and frequency of the tapping is controlled to give a wide range of feedback. Once the user has arrived at the edge of the zebra crossing, the user is made to align with the zebra crossing. 
 
-
+#### Step 5
+The last step is to detect whether there is a traffic signal (which is also done using Cascade Classifiers) and if there is, to check whether the signal is STOP or GO based on which, the user will be directed whether to proceed or not.  
 
 
 
