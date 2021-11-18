@@ -19,8 +19,7 @@ The second step is to orthorectify the image in which the crosswalk was detected
 </p>
 Here s is the scaling, H is the homography matrix, x' and y' are transformed points, x and y are points that need to be transformed. Once H has been computed, it can be appled to the entire image frame to produce a new orthorectified image plane. The image below illustrates the same. 
 
-
-![1](img/1.png)
+![1](img/1.png){padding-right:10px"}
 
 
 
