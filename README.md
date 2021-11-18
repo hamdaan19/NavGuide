@@ -15,8 +15,9 @@ First step is to detect the crosswalk. We do it by training a Haar Cascade class
 #### Step 2
 The second step is to orthorectify the image in which the crosswalk was detected. It can be done by applying a homography transformation. The homography transformation matrix is automatically computed by OpenCV given the points (and the location to which the points must be transformed) which need to be transformed from the perspective image plane to orthogonal world plane. Generally, a homography transformation matrix is the product of camera intrinsic and extrinsic matrices. The equation below shows the equation of transformation. 
 <p align="center">
-<img src="img/homography_equation.png" style="height: 100px; width: 200px;"/>
+<img src="img/homography_equation.png" style="height: 100px; width: 185px;"/>
 </p>
+here s is the scaling, H is the homography matrix, x' and y' are transformed points, x and y are points that need to be transformed. Once H has been computed, it can be appled to the entire image frame to produce a new orthorectified image plane. 
 
 
 
