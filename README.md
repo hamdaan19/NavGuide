@@ -28,6 +28,8 @@ Next we need to segment the image to correctly identify which part is the sidewa
 <img src="img/2.png" style="height: 300px; width: 600px;"/>
 </p>
 
+#### Step 4
+Haptic feedback is given to the user in order to guide him/her towards the starting edge of the crosswalk. Force and frequency of the tapping is controlled to give a wide range of feedback.    
 
 
 
