@@ -1,6 +1,6 @@
 # NavGuide
 <p align="center">
-<img src="img/methodology.png" style="height: 500px; width: 1250px;"/>
+<img src="img/device.png" style="height: 500px; width: 1250px;"/>
 </p>
 
 ## About
